@@ -1,5 +1,5 @@
 # 💫 About Me:
-Student on Science of computing, learning software delvelop
+Student on Science of computing, learning software develop
 
 
 ## 🌐 Socials:
